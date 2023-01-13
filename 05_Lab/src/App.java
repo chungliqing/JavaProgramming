@@ -1,5 +1,6 @@
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
@@ -75,7 +76,31 @@ public class App {
         
         System.out.println("Sum of product = " + sumOfProducts);
 
+    }
 
+    public static void exercise6() {
+        Scanner keyboardInput = new Scanner(System.in);
 
+        System.out.print("Enter string: ");
+        String word = keyboardInput.nextLine();
+
+        System.out.print("To Upper Case (U)/ To Lower Case (L): ");
+        String choice = keyboardInput.nextLine();
+
+        if (choice.equals("U"))
+            toCapitalLetter(word);
+        else if (choice.equals("L"))
+            toLowerLetter(word);
+        else
+            System.out.println("invalid input.");
+        keyboardInput.close();
+    }
+
+    public static void toCapitalLetter(String word) {
+        System.out.println(word.toUpperCase());
+    }
+
+    public static void toLowerLetter(String word) {
+        System.out.println(word.toLowerCase());
     }
 }
