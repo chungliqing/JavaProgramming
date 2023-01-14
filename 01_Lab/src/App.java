@@ -60,8 +60,15 @@ public class App {
              * int number1, number2;
              * number1 = 1; number2; 2
          */
-    }
+        char x = 'n';
+        char y = 90;
 
+        int a = 35;
+        int b = 36;
+
+        System.out.println("The concatenated integers are : " +a+b); //3536
+    }
+    
     public static void declareStringTypeVariable() {
         String name;
     }
