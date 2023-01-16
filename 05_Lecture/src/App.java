@@ -1,11 +1,15 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
         /*var col = new Collection();
 		int[] numbers = col.readNumbers();
 		col.echoArray(numbers);*/
-        sortNumbersInAscendingOrder();
+        //sortNumbersInAscendingOrder();
+        System.out.println(findNumberFromArray());;
+
+
 
         
 
@@ -28,6 +32,24 @@ public class App {
 
         System.out.println("Original:\n" + Arrays.toString(original));
         System.out.println(Arrays.toString(numbers));
+    }
+
+    public static int findNumberFromArray() {
+        //available --> return the index of the number
+        //unavailable --> return -1
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Enter number to find: ");
+        int userInput = input.nextInt();
+
+        int numbers[] = {27, 12, 3, 18, 11, 7};
+        
+        for (int i = 0; i < numbers.length; i++){
+            if (numbers[i] == userInput){
+                return i;
+            }
+        }
+        return -1;
     }
 }
 //System.out.println(Arrays.toString(numbers)); (return str rep of array's value);
