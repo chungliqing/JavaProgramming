@@ -3,12 +3,18 @@ public class Calculator {
 	int number2;
 
 	public int getAddition() {
-		int sum = number1 + number2;
-		return sum;
+		return number1 + number2;
 	}
 
 	public int getDifference() {
-		int difference = number1 - number2;
-		return difference;
+		return number1 - number2;
+	}
+
+	public int getProduct() {
+		return number1 * number2;
+	}
+
+	public int getQuotient() {
+		return number1 / number2;
 	}
 }
