@@ -12,6 +12,7 @@ public class App {
         System.out.println("Difference: " + difference);
         System.out.println("Product: " + product);
         System.out.println("Quotient: " + quotient);
+        calculator.thanks();
         
     }
 

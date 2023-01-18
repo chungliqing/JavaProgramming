@@ -17,4 +17,8 @@ public class Calculator {
 	public int getQuotient() {
 		return number1 / number2;
 	}
+
+	public void thanks() {
+		System.out.println("Thank you for using our services.");
+	}
 }
