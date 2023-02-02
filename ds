@@ -1,0 +1,162 @@
+[33mcommit a28609e3533bd8e70f9c1267f647f516cc8e85f4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Chung Li Qing <118187407+chungliqing@users.noreply.github.com>
+Date:   Thu Feb 2 16:15:48 2023 +0800
+
+    Delete 08_Lab/08_Lab directory
+
+[33mcommit 39079913d77c64d2ab6d6f8344233f1ebd87bf91[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Thu Feb 2 16:14:28 2023 +0800
+
+    after lab
+
+[33mcommit 560e32336154304910463a1d53a9f2a55af4f0fe[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Fri Jan 20 19:43:00 2023 +0800
+
+    from the end of lab 6
+
+[33mcommit 6681cb8b665be2c56163b7b1e333384e14c94d19[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Wed Jan 18 16:07:48 2023 +0800
+
+    first commit for lab 6
+
+[33mcommit 98d993287501af7f5ec081fd2e6872efeb29ff9c[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Tue Jan 17 14:43:44 2023 +0800
+
+    update before break
+
+[33mcommit 01d3a29275d0c334184e7f7128264761b0f637c2[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Tue Jan 17 14:33:50 2023 +0800
+
+    add new calculator class
+
+[33mcommit 5461ae8abae8656979036b60f31bfbd2df476c59[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Tue Jan 17 14:20:54 2023 +0800
+
+    add Car.java
+
+[33mcommit 54d8b455bf600745a24c2f84ea598117a6758319[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Tue Jan 17 14:19:26 2023 +0800
+
+    class Human
+
+[33mcommit 6fa6aea1f9ec116561ea9c444d3b8e391d70bd19[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Tue Jan 17 13:38:54 2023 +0800
+
+    save week six project
+
+[33mcommit 472711f184669f01149a4b4c9c7b04186b22531a[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Tue Jan 17 00:21:40 2023 +0800
+
+    lecture 05 hw: search for a number in an array
+
+[33mcommit 7d580225404db927fbc6f0b2f216021e5a688a51[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Mon Jan 16 23:25:36 2023 +0800
+
+    java homework: sort an array in ascending order
+
+[33mcommit ddfe2df747b61d140ca709ae20c2ab72049c53dc[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Sun Jan 15 20:07:37 2023 +0800
+
+    update Lecture 01
+
+[33mcommit 1c47eebddbc949f36089ca23ee73679659477b83[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Sat Jan 14 23:26:20 2023 +0800
+
+    update lab01
+
+[33mcommit c6a1d1bff9e2671992892a30eb1e0a3171f9492e[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Sat Jan 14 22:59:40 2023 +0800
+
+    update Lab01
+
+[33mcommit c387d70cb2a295edc27868e976dadffed949b424[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Sat Jan 14 22:12:51 2023 +0800
+
+    add all
+
+[33mcommit eb2b8230b0ab99d2846569b3f0b5872e7061906c[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Sat Jan 14 22:09:14 2023 +0800
+
+    add folders
+
+[33mcommit 2425a4dbfa41e256f08e06b66bebea05eacc98aa[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Sat Jan 14 22:01:35 2023 +0800
+
+    lab 01 first commit
+
+[33mcommit 4c6f969935aeeddf834ea854674d6446905836d2[m
+Merge: 6af94e6 6bfe45b
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Sat Jan 14 21:55:21 2023 +0800
+
+    converge
+
+[33mcommit 6af94e6e569671076e2ffe76b6fab95fbffafbb1[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Fri Jan 13 22:50:53 2023 +0800
+
+    update queston 5
+
+[33mcommit 5463f344a36968292494ea2fe4a8effb7a3e5031[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Fri Jan 13 22:47:05 2023 +0800
+
+    did question 5;
+
+[33mcommit 6bfe45b722f5065c122acf5496971b0631525dc1[m
+Author: Chung Li Qing <118187407+chungliqing@users.noreply.github.com>
+Date:   Wed Jan 11 17:53:39 2023 +0800
+
+    Delete Lecture05 directory
+
+[33mcommit e0f6055b5450d20476d2cecb3a2734757061390a[m
+Author: Chung Li Qing <118187407+chungliqing@users.noreply.github.com>
+Date:   Wed Jan 11 17:53:36 2023 +0800
+
+    Delete Lab05 directory
+
+[33mcommit d2a09d795d1b8966e115ece8bd21c0fa1d9ed5e6[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Wed Jan 11 17:52:39 2023 +0800
+
+    after lab
+
+[33mcommit 4e43eb47c3fa47c47ba40c1d97db0a177bc54dd2[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Wed Jan 11 16:32:32 2023 +0800
+
+    update readme
+
+[33mcommit f02c9ee29cb1ed46bf2d5adb81328b3b32a57b8e[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Wed Jan 11 16:03:06 2023 +0800
+
+    updating lab 04
+
+[33mcommit e23ef769e9a041777d498c51aadc5049df666ebf[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Wed Jan 11 15:23:45 2023 +0800
+
+    initialising lab05
+
+[33mcommit a4ac2d9b641fcc67bcfe72fbdc9b5ba1db2d826e[m
+Author: chungliqing <chungliqing21@gmail.com>
+Date:   Wed Jan 11 14:56:40 2023 +0800
+
+    initial commit
