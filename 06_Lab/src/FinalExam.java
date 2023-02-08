@@ -2,7 +2,7 @@ public class FinalExam {
 	//global variable
 	private String name;
 	private double quiz1, quiz2, quiz3;
-	private double sum, avg;
+	private double sum;
 
 	public void setName(String name){
 		//function parameter
