@@ -26,6 +26,11 @@ public class Main {
         circle.setRadius(3);
         System.out.println("Radius: " + circle.getRadius());
         System.out.println("Area: " + circle.getArea());
+        
+        Sphere sp1 = new Sphere(); //invoke default constructor
+        Sphere sp2 = new Sphere(7); // invoke the 2nd constructors
+        System.out.println("SP1 " + sp1.getRadius());
+        System.out.println("SP2 " + sp2.getVolume());
     }
     
 }
